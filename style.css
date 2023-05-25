@@ -8,3 +8,7 @@ header{
     background-color: black;
     color: white;
 }
+.texto{
+    display:grid;
+    grid-template-columns: 15% 70% 15%;
+}
